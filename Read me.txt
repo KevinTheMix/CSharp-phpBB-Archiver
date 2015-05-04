@@ -1,0 +1,21 @@
+.: Marvelous' CandiULB Archiver © :.
+========================
+
+Introduction
+--------------
+Cet outil parcourt et sauve tous les sujets dans lesquels un utilisateur donné a laissé un message au format HTML.
+Il adapte aussi bon nombre de références online vers une copie locale des images et les css/javascripts.
+
+Utilisation
+-----------
+1) Ouvrir le fichier CandiULB.exe.
+2) Indiquer le pseudo d'un utilisateur du forum.
+3) La pause entre chaque requête peut être tweaké pour éviter un éventuel timeout (100 ms par défaut marche la plupart du temps).
+4) Une liste de sujets à exclure peut être complétée ; ceux remplis par défaut ont été choisis en fonction de leur longueur.
+5) Le répertoire vers lequel tous les fichiers HTML vont être sauvés, ainsi que les références locales vers les images, css et javascripts.
+6) Cliquer sur Go! Le temps d'éxecution dépend du nombre de pages à parcourir, qui dépend du nombre de messages de l'utilisateur.
+
+Avertissement
+----------------
+Le temps d'exécution peut être important, surtout si un grand nombre de messages sont à parcourir. Vous pouvez toujours kill le process via le gestionnaire de tâches si vous devez l'interrompre.
+De plus ce programme est fourni tel quel sans aucune garantie et sa bonne utilisation ressort de la responsabilité de l'utilisateur.
